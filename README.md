@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 ![English](https://img.shields.io/badge/🇺🇸_English-Professional-blue)
 ![Français](https://img.shields.io/badge/🇫🇷_Français-Débutant-yellow)
 
-![Top Langs]https://github-readme-stats.vercel.app/api/top-langs/?username=lutzdan&layout=compact
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lutzdan&layout=compact)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=radical)
 
