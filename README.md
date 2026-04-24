@@ -39,11 +39,10 @@ Here are some ideas to get you started:
 ![English](https://img.shields.io/badge/🇺🇸_English-Professional-blue)
 ![Français](https://img.shields.io/badge/🇫🇷_Français-Débutant-yellow)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiBernal&layout=compact)
+![Top Langs](https://github-readme-stats-7ufm1o0hr-libernals-projects.vercel.app/api/top-langs/?username=LiBernal&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LiBernal&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-7ufm1o0hr-libernals-projects.vercel.app/api?username=LiBernal&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=LiBernal&theme=radical)
-
 
 
