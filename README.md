@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 ![CSS](https://img.shields.io/badge/-CSS-blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
