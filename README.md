@@ -1,22 +1,12 @@
 # Holi, bienvenido(a) 💻🌱
 
-<!--
-**LiBernal/LiBernal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--->
-
 - 🔭 I’m currently studying AI Engineering at Instituto Tecnológico de La Paz
 - 💬 Ask me about movie or song recommendations (and give me some)
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
-
 
 ## 🛠️ Tecnologías y Herramientas
 
