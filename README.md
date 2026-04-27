@@ -1,6 +1,6 @@
 # Holi, bienvenido(a) 💻🌱
 
-- 🔭 I’m currently studying AI Engineering at Instituto Tecnológico de La Paz
+- 🔍 I’m currently studying AI Engineering at Instituto Tecnológico de La Paz
 - 💬 Ask me about movie or song recommendations (and give me some)
 <!--
 - 🌱 I’m currently learning ...
