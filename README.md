@@ -20,7 +20,7 @@
 ![Français](https://img.shields.io/badge/🇫🇷_Français-Débutant-yellow)
 
 
-## 📊 GitHub estadísticas  
+## 📊 GitHub stats  
 
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiBernal&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&langs_count=6&hide=html,css" width="40%" />
