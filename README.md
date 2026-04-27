@@ -23,7 +23,7 @@
 ## 📊 GitHub estadísticas  
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiBernal&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&langs_count=6&hide=html,css" width="35%" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiBernal&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&langs_count=6&hide=html,css" width="40%" />
   <img src="https://github-readme-stats.vercel.app/api?username=LiBernal&show_icons=true&theme=tokyonight&hide_border=true" />
 </div>
 
