@@ -30,5 +30,5 @@
 </div>
 
 <div align="center">
-<img width="70%" src="https://streak-stats.demolab.com?user=LiBernal&theme=radical&hide_border=true&border_radius=12" />
+<img width="50%" src="https://streak-stats.demolab.com?user=LiBernal&theme=radical&hide_border=true&border_radius=12" />
 </div>
