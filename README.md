@@ -36,3 +36,5 @@
 <a href="https://ko-fi.com/YOURNAME">
   <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=ko-fi&logoColor=black" />
 </a>
+
+![snake gif](https://github.com/LiBernal/LiBernal/blob/output/github-snake.svg)
