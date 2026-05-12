@@ -33,8 +33,6 @@
 <img width="50%" src="https://streak-stats.demolab.com?user=LiBernal&theme=radical&hide_border=true&border_radius=12" />
 </div>
 
-<a href="https://ko-fi.com/YOURNAME">
-  <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=ko-fi&logoColor=black" />
-</a>
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/libernal)
 
 ![snake gif](https://github.com/LiBernal/LiBernal/blob/output/github-snake-dark.svg)
