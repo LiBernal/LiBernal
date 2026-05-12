@@ -32,3 +32,7 @@
 <div align="center">
 <img width="50%" src="https://streak-stats.demolab.com?user=LiBernal&theme=radical&hide_border=true&border_radius=12" />
 </div>
+
+<a href="https://ko-fi.com/YOURNAME">
+  <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=ko-fi&logoColor=black" />
+</a>
