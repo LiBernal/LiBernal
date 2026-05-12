@@ -21,16 +21,14 @@
 ![Français](https://img.shields.io/badge/🇫🇷_Français-Débutant-yellow)
 
 
-## 📊 GitHub stats  
+## 📊 GitHub Stats  
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiBernal&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&langs_count=6&hide=html,css" width="40%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=LiBernal&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LiBernal&show_icons=true&theme=radical&hide_border=true&border_radius=12" />
+
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LiBernal&layout=compact&theme=radical&hide_border=true&border_radius=12&langs_count=6" />
 </div>
 
 <div align="center">
-   <img src="https://streak-stats.demolab.com/?user=LiBernal&theme=radical" />
-  
+<img width="70%" src="https://streak-stats.demolab.com?user=LiBernal&theme=radical&hide_border=true&border_radius=12" />
 </div>
-
----
