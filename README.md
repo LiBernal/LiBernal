@@ -18,9 +18,9 @@
 ![snake gif](https://github.com/LiBernal/LiBernal/blob/output/github-snake-dark.svg)
   
 <div align="center">
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LiBernal&show_icons=true&theme=radical&hide_border=true&border_radius=12" />
+<!--- <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LiBernal&show_icons=true&theme=radical&hide_border=true&border_radius=12" /> --->
 
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LiBernal&layout=compact&theme=radical&hide_border=true&border_radius=12&langs_count=6" />
+<!--- <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LiBernal&layout=compact&theme=radical&hide_border=true&border_radius=12&langs_count=6" /> --->
 </div>
 
 ## 🌎 Languages:  
